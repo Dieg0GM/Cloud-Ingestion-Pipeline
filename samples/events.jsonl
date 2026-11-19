@@ -1,0 +1,1 @@
+{"device_id":"sim-01","severity":"INFO","message":"startup"}\n{"device_id":"sim-02","severity":"WARN","message":"simulated sensor delay"}\n{"device_id":"","severity":"ERROR","message":"invalid device"}\n
